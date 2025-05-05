@@ -1,0 +1,47 @@
+2025-05-03 12:51:39,381 - JarvisAssistant - INFO - Loaded 0 profiles
+2025-05-03 12:51:39,381 - JarvisAssistant - INFO - Loaded learning data
+2025-05-03 12:51:39,420 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-03 12:51:39,420 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-05-03 12:52:16,002 - JarvisAssistant - INFO - Saved profile: Vishwas
+2025-05-03 12:52:56,058 - JarvisAssistant - INFO - Saved profile: Vishwas
+2025-05-03 12:55:28,965 - JarvisAssistant - ERROR - Error loading profile Vishwas.profile: 
+2025-05-03 12:55:28,966 - JarvisAssistant - INFO - Loaded 0 profiles
+2025-05-03 12:55:28,966 - JarvisAssistant - INFO - Loaded learning data
+2025-05-03 12:55:28,993 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-03 12:55:28,993 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-05-03 12:55:35,546 - JarvisAssistant - INFO - Saved profile: venki
+2025-05-03 12:56:18,422 - JarvisAssistant - INFO - Launched application: chrome
+2025-05-03 12:56:18,423 - JarvisAssistant - INFO - Saved learning data
+2025-05-03 12:56:18,428 - JarvisAssistant - INFO - Saved profile: venki
+2025-05-03 12:57:17,823 - JarvisAssistant - INFO - Launched application: telegram
+2025-05-03 12:57:17,823 - JarvisAssistant - INFO - Saved profile: venki
+2025-05-03 12:57:17,824 - JarvisAssistant - INFO - Saved learning data
+2025-05-03 12:57:17,829 - JarvisAssistant - INFO - Saved profile: venki
+2025-05-03 12:58:05,033 - JarvisAssistant - INFO - Saved profile: venki
+2025-05-05 14:04:57,250 - JarvisAssistant - ERROR - Error loading profile venki.profile: 
+2025-05-05 14:04:57,251 - JarvisAssistant - ERROR - Error loading profile Vishwas.profile: 
+2025-05-05 14:04:57,252 - JarvisAssistant - INFO - Loaded 0 profiles
+2025-05-05 14:04:57,252 - JarvisAssistant - INFO - Loaded learning data
+2025-05-05 14:04:57,295 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-05 14:04:57,295 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-05-05 14:05:07,660 - JarvisAssistant - INFO - Saved profile: srgd
+2025-05-05 14:05:51,869 - JarvisAssistant - ERROR - Error loading profile srgd.profile: 
+2025-05-05 14:05:51,870 - JarvisAssistant - ERROR - Error loading profile venki.profile: 
+2025-05-05 14:05:51,870 - JarvisAssistant - ERROR - Error loading profile Vishwas.profile: 
+2025-05-05 14:05:51,870 - JarvisAssistant - INFO - Loaded 0 profiles
+2025-05-05 14:05:51,870 - JarvisAssistant - INFO - Loaded learning data
+2025-05-05 14:05:51,899 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-05 14:05:51,899 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-05-05 14:06:01,827 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:06:14,745 - JarvisAssistant - INFO - Launched application: chrome
+2025-05-05 14:06:14,746 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:06:14,747 - JarvisAssistant - INFO - Saved learning data
+2025-05-05 14:06:14,748 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:06:29,921 - JarvisAssistant - INFO - Launched application: telegram
+2025-05-05 14:06:29,923 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:06:29,924 - JarvisAssistant - INFO - Saved learning data
+2025-05-05 14:06:29,925 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:07:03,191 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:07:03,191 - JarvisAssistant - INFO - Saved learning data
+2025-05-05 14:07:03,193 - JarvisAssistant - INFO - Saved profile: cfvghbj
+2025-05-05 14:07:15,187 - JarvisAssistant - INFO - Saved profile: cfvghbj
